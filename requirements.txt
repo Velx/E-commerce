@@ -3,7 +3,7 @@ botocore==1.13.39
 Django==2.2
 django-cors-headers==3.2.0
 django-storages==1.8
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 docutils==0.15.2
 jmespath==0.9.4
 Pillow==6.2.1
